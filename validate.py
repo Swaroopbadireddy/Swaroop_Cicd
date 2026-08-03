@@ -13,3 +13,5 @@ for file in required_files:
         raise Exception(f"{file} Missing")
 
 print("Validation Successful")
+
+print("github actions working")
